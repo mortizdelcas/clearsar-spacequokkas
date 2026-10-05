@@ -1,0 +1,20 @@
+# weights, data and generated files stay out of the repository
+models/
+data/
+dataset/
+output/
+submission/
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# editors and OS
+.vscode/
+.idea/
+.DS_Store

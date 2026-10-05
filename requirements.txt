@@ -1,0 +1,9 @@
+# Post-processing chain. The detectors additionally need MMDetection 3.x (with MMCV and MMEngine) and a clone of D-FINE: see the README.
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+tqdm
+ensemble-boxes
+pycocotools
